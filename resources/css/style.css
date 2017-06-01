@@ -1,0 +1,20 @@
+html {
+  background-color: black;
+}
+p {
+  font-family: Verdana, sans-serif;
+}
+.header {
+  text-align: center;
+}
+.header p {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.link {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
