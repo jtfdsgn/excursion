@@ -1,20 +1,32 @@
 html {
   background-color: black;
+  text-align: center;
 }
 p {
   font-family: Verdana, sans-serif;
-}
-.header {
-  text-align: center;
+  color: gray;
 }
 .header p {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 .link {
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
+}
+.item {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.item p {
+  font-size: 21px;
+}
+.item .title {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+.footer {
+  text-align: right;
 }
